@@ -62,8 +62,8 @@ visualisera pour chaque point de la grille l’indice du site dont il est le plu
 l’algorithme de plus court chemin (ainsi que la distance). Ainsi l'affichage final permettra de
 faire apparaître le diagramme de Voronoï de l’ensemble des sites de librairies.
 
->On stocke les infos relatives au parcours du graphe (couleur, prédécesseur, longueur de chemin) dans des 
->tableaux de taille L × C, indexés dans le même ordre que les L × C sommets du graphe.
+On stocke les infos relatives au parcours du graphe (couleur, prédécesseur, longueur de chemin) dans des 
+tableaux de taille L × C, indexés dans le même ordre que les L × C sommets du graphe.
 
 ***
 
